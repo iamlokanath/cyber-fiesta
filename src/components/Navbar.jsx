@@ -15,7 +15,7 @@ const Navbar = () => {
             <img src={GCEK} alt="gcek" />
           </Link>
           <Link to="/" className="cyberlogo">
-            Cyber <span className="cyberlogospan">Fiesta</span>
+            CYBER <span className="cyberlogospan">FIESTA</span>
           </Link>
         </div>
       </div>

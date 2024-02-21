@@ -4,6 +4,7 @@ import Event from "./Event.jsx";
 import Righthome from "../Image/home1-removebg-preview.png";
 import "./css/Home.css";
 import { Link } from "react-router-dom";
+import Footer from "./Footer.jsx";
 const Home = () => {
   return (
     <>
@@ -38,6 +39,7 @@ const Home = () => {
         </div>
       </div>
       <Event />
+      <Footer/>
     </>
   );
 };
